@@ -107,7 +107,7 @@ In `batch_run.py`, the following parameters are tested across multiple runs:
 - **AI Bias** (`ai_bias`): [0.0, 0.2, 0.5]
 - **Network Type** (`network_type`): ["Random", "Small World", "Scale-Free"]
 
-The results of each run are saved in the `batch_run_results.csv` file.
+The results of each run are saved in the `batch_run_results.csv` file. Feel free to create and try other paramaters. This is preliminary work and meant to be further explored.
 
 ## **Data Collected**
 
