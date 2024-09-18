@@ -124,7 +124,7 @@ If you'd like to contribute to this project, feel free to fork the repository, c
 
 ## **Contact**
 
-For any questions or issues, please reach out
+For any questions or issues, please reach out [here](https://zach-porter.github.io/contact.html)
 
 
 
